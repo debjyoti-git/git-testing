@@ -3,3 +3,5 @@ var a = 10,
 c = 30;
 
 console.log(a + b + c);
+console.log(a - b - c);
+console.log("testing reset command now");
